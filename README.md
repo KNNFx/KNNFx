@@ -6,7 +6,7 @@
 
 - 🔭 I'm currently working on **a AI-answered Vietnamese History Multiple Choice Question Project**
 
-- 🌱 I'm currently learning **Game Art and Design**
+- 🌱 I'm currently learning **AI Engineer, Game Art and Design**
 
 - 💬 Ask me about **AI Engineer or game development**
 
