@@ -8,11 +8,11 @@
 
 - 🌱 I'm currently learning **AI Engineer, Game Art and Design**
 
-- 💬 Ask me about **AI Engineer or game development**
+- 💬 Ask me about **AI Engineer, game development or video game translation guide**
 
 - 📫 How to reach me **nv.khanh.business@gmail.com**
 
-- ⚡ Fun fact **A little serious, and socially awkward. But I really enjoy it when people talking to me.**
+- ⚡ Fun fact **A little serious, and socially awkward. But I really enjoy people talking to me.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
