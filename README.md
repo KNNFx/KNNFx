@@ -2,8 +2,6 @@
 
 ### A passionate developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KNNFx&label=Profile views&color=0e75b6&style=flat" alt="KNNFx" /> </p>
-
 - 🔭 I'm currently working on **a AI-answered Vietnamese History Multiple Choice Question Project**
 
 - 🌱 I'm currently learning **AI Engineer, Game Art and Design**
