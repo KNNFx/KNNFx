@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **nv.khanh.business@gmail.com**
 
-- ⚡ Fun fact **A little serious, and socially awkward. But I really enjoy people talking to me.**
+- ⚡ Fun fact: **I'm a little serious, and socially awkward. But I really enjoy people talking to me.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
